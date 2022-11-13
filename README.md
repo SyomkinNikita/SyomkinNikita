@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Nikita Syomkin</h1>
+<h3 align="center">Frontend Developer, living in Armenia</h3>
 
-<!--
-**SyomkinNikita/SyomkinNikita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Выпускник Московского Государственного Технического Университета им. Баумана. </br>
+В Университете успел себя попробовать, как C++, C#/Unity, Python разработчик. 
+Попробовал себя во многих  сферах, написал много учебных проектов. 
+Окончил курсы frontend-разработчика в компании и сразу же попал на стажировку в МТС Банк. </br>
+Очень люблю учить что-то новое, всегда прохожу какие-то курсы. В данный момент изучаю алгоритмы :)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/nsyomkin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="basmingo" height="30" width="40" /></a>
+<a href="https://instagram.com/nikita_s123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="basmingo" height="30" width="40" /></a>
+</p>
+
