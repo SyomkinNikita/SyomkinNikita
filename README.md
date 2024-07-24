@@ -15,5 +15,6 @@ I really like to learn something new, I always pass new courses. At the moment I
 <a href="https://instagram.com/nikita_s123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="basmingo" height="30" width="40" /></a>
 </p>
 
-<a href="" target="blank"><img align="center" src="https://www.codewars.com/users/SyomkinNikita/badges/large?theme=light" alt="basmingo" /></a>
+<a href="https://www.codewars.com/users/SyomkinNikita/badges/large?theme=light" target="blank"><img align="center" 
+src="https://www.codewars.com/users/SyomkinNikita/badges/large?theme=light" alt="basmingo" /></a>
 
